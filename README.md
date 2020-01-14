@@ -12,3 +12,6 @@
 项目荣誉：2018-2019上学期“南京软件研究院卓越工程师培养项目晋级奖学金”卓越贡献奖一等奖
 
 ##本来还有展示用的视频，太大了放不上去，放B站上了https://www.bilibili.com/video/av83336784
+
+项目结构图
+![项目结构图](https://github.com/ledphz/wem/blob/master/wem.png)
